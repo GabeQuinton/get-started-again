@@ -2,7 +2,11 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< Updated upstream
 uid="uid://47u6lj1618sk"
+=======
+uid="uid://3lhlwjses1xj"
+>>>>>>> Stashed changes
 path="res://.godot/imported/Kenney Pixel Square.ttf-87d12b7133dcb0cab032f3d23f9126b0.fontdata"
 
 [deps]
