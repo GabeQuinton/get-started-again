@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://b2lvl7akeo80x"
+=======
+<<<<<<< Updated upstream
+uid="uid://vqx63oouma2n"
+=======
+uid="uid://lrjw541psyk5"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney High Square.ttf-31cf241a9e4b08ed1ede4c4ece8b8295.fontdata"
 
 [deps]

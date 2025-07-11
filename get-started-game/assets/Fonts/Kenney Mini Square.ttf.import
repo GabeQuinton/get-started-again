@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://bbi5jabtaq1gg"
+=======
+<<<<<<< Updated upstream
+uid="uid://cbtp254608fqg"
+=======
+uid="uid://b32smnq0rxn8b"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney Mini Square.ttf-c49f8ef1e49f69b3f8da5d1786aa5f74.fontdata"
 
 [deps]

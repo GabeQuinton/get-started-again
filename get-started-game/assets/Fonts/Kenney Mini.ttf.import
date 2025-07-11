@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://hj20tneeyoaa"
+=======
+<<<<<<< Updated upstream
+uid="uid://ivonjttypd2p"
+=======
+uid="uid://erei8y3rkrv"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney Mini.ttf-f6e816f8968c0ca76db18efbb448ca70.fontdata"
 
 [deps]

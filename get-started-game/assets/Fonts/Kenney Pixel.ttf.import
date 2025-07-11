@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://d02qidw0vc7ml"
+=======
+<<<<<<< Updated upstream
+uid="uid://dc04m3hy5hakk"
+=======
+uid="uid://cqq612rnfmo1s"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney Pixel.ttf-bfeee1b80514f0a82a1024eba2c5fa2a.fontdata"
 
 [deps]

@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://cafwyv4rt2go6"
+=======
+<<<<<<< Updated upstream
+uid="uid://bo7wwsgjwqlwx"
+=======
+uid="uid://liup653klt66"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney Rocket.ttf-068c6fea1b9afcff4c5cbda5ba66e00d.fontdata"
 
 [deps]

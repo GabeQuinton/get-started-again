@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://16vyo0nvf1cp"
+=======
+<<<<<<< Updated upstream
+uid="uid://xycbc7rk8ssu"
+=======
+uid="uid://bgbm8s3bs8oto"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney Future Narrow.ttf-301df4fdb0f9e9f2e07ce3c0f461dccd.fontdata"
 
 [deps]

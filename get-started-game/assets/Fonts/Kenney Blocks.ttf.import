@@ -2,7 +2,15 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< HEAD
 uid="uid://bwprx57407uqm"
+=======
+<<<<<<< Updated upstream
+uid="uid://c4mmgnmykhy3i"
+=======
+uid="uid://g5m17p4417lp"
+>>>>>>> Stashed changes
+>>>>>>> main
 path="res://.godot/imported/Kenney Blocks.ttf-64632e973be3cbbb5de78d891890ee05.fontdata"
 
 [deps]
