@@ -2,7 +2,11 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< Updated upstream
 uid="uid://cmmumygmapcic"
+=======
+uid="uid://gbmkcygggjfx"
+>>>>>>> Stashed changes
 path="res://.godot/imported/Kenney Future.ttf-d046583541bdf2b4d8304d362a680449.fontdata"
 
 [deps]

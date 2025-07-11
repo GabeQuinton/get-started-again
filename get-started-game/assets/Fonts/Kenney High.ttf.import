@@ -2,7 +2,11 @@
 
 importer="font_data_dynamic"
 type="FontFile"
+<<<<<<< Updated upstream
 uid="uid://bd7dwmkneu6ag"
+=======
+uid="uid://cggox4kobfd1x"
+>>>>>>> Stashed changes
 path="res://.godot/imported/Kenney High.ttf-e1cffc8feca349e3b2468c63a8225519.fontdata"
 
 [deps]
